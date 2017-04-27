@@ -2,5 +2,5 @@
 
 	echo phpinfo();
 
-	
+	123
 ?>
